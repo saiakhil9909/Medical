@@ -107,11 +107,6 @@ See `examples.json` for three held-out test examples with predicted answers and 
 - All artifacts pinned in this folder.
 - Model serialized via pickle.
 
----
-
-## Contact
-For submission, upload this folder to GitHub and email the link as instructed.
-
 
 ---
 _Last updated: 2025-08-28_
